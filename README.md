@@ -25,9 +25,6 @@
 				'Competitive Programming',
 			]
 	
-	def getCity():
-		return Gaya_Bihar()
-	
 	def getAmbitions():
 		SoftwareDevelopment()
 		Machine Learning()
